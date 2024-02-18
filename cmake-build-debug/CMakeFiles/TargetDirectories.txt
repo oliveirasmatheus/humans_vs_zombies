@@ -1,0 +1,3 @@
+C:/Users/mathe/CLionProjects/CPPAss4/cmake-build-debug/CMakeFiles/CPPAss4.dir
+C:/Users/mathe/CLionProjects/CPPAss4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mathe/CLionProjects/CPPAss4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
